@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.ipynb
+*.csv
+train_with_mlflow.py
+mlflow.db
+mlruns/
+screenshots/
+.git/
+*.md
