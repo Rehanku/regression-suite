@@ -38,7 +38,11 @@ regression-suite/
 │   ├── missing_data.png
 │   ├── model_comparison.png
 │   ├── residuals_analysis.png
-│   └── feature_coefficients.png
+│   ├── feature_coefficients.png
+│   ├── mlflow_runs.png
+│   ├── frontend_demo1.png
+│   ├── frontend_demo2.png
+│   └── frontend_demo3.png
 └── README.md
 ```
 
@@ -152,6 +156,18 @@ features with dollar impact, and model metadata.
 
 ### Feature Coefficients
 ![Feature Coefficients](screenshots/feature_coefficients.png)
+
+### MLflow Runs & Experiment Tracking
+![MLflow Runs](screenshots/mlflow_runs.png)
+
+### Frontend Demo — Main Dashboard
+![Frontend Demo 1](screenshots/frontend_demo1.png)
+
+### Frontend Demo — Model Rationale & Statistics
+![Frontend Demo 2](screenshots/frontend_demo2.png)
+
+### Frontend Demo — Predictions & Coefficients Analysis
+![Frontend Demo 3](screenshots/frontend_demo3.png)
 
 ---
 
